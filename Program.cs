@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string userName = "merlin";
+
+int luckyNumber = 1;
+
+Console.WriteLine($"Hello {userName}! Your lucky number is {luckyNumber}");
